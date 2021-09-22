@@ -42,7 +42,7 @@
           </LawWaypoints>
         </controlLaw>
         <controlSim>
-          <UMANSconfig SimulationID="0" radius="0.33" prefered_speed="1.03805876" max_speed="3" max_acceleration="3.40282347E+38" />
+          <UMANSconfig SimulationID="0" radius="0.33" prefered_speed="0.1717" max_speed="3" max_acceleration="3.40282347E+38" />
         </controlSim>
       </TrialNavRepAgent>
     </agent>
@@ -58,7 +58,7 @@
           </LawWaypoints>
         </controlLaw>
         <controlSim>
-          <UMANSconfig SimulationID="0" radius="0.33" prefered_speed="1.49161947" max_speed="3" max_acceleration="3.40282347E+38" />
+          <UMANSconfig SimulationID="0" radius="0.33" prefered_speed="0.3717" max_speed="3" max_acceleration="3.40282347E+38" />
         </controlSim>
       </TrialNavRepAgent>
     </agent>
@@ -74,7 +74,7 @@
           </LawWaypoints>
         </controlLaw>
         <controlSim>
-          <UMANSconfig SimulationID="0" radius="0.33" prefered_speed="1.4256134" max_speed="3" max_acceleration="3.40282347E+38" />
+          <UMANSconfig SimulationID="0" radius="0.33" prefered_speed="0.1717" max_speed="3" max_acceleration="3.40282347E+38" />
         </controlSim>
       </TrialNavRepAgent>
     </agent>
@@ -90,7 +90,7 @@
           </LawWaypoints>
         </controlLaw>
         <controlSim>
-          <UMANSconfig SimulationID="0" radius="0.33" prefered_speed="1.28032768" max_speed="3" max_acceleration="3.40282347E+38" />
+          <UMANSconfig SimulationID="0" radius="0.33" prefered_speed="0.3717" max_speed="3" max_acceleration="3.40282347E+38" />
         </controlSim>
       </TrialNavRepAgent>
     </agent>
@@ -106,7 +106,7 @@
           </LawWaypoints>
         </controlLaw>
         <controlSim>
-          <UMANSconfig SimulationID="0" radius="0.33" prefered_speed="1.20961356" max_speed="3" max_acceleration="3.40282347E+38" />
+          <UMANSconfig SimulationID="0" radius="0.33" prefered_speed="0.3717" max_speed="3" max_acceleration="3.40282347E+38" />
         </controlSim>
       </TrialNavRepAgent>
     </agent>
