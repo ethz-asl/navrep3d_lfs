@@ -12,3 +12,5 @@ mlagents_executables/cathedral_Data/sharedassets0.assets.resS filter=lfs diff=lf
 mlagents_executables/cathedral_Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
 mlagents_executables/gallery_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
 mlagents_executables/gallery_Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
+mlagents_executables/kozehd_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+mlagents_executables/kozehd_Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
