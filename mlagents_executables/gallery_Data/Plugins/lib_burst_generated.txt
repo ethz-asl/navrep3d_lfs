@@ -103,6 +103,7 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_TIMELINE
 --compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=ROCKETBOX
+--compilation-defines=UNITY_POST_PROCESSING_STACK_V2
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
@@ -113,6 +114,8 @@ Library: lib_burst_generated
 --compilation-defines=MLA_UNITY_ANALYTICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS2D_MODULE
+--compilation-defines=ENABLE_VR_MODULE
+--compilation-defines=ENABLE_XR_MODULE
 --debug=Full
 --output=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Plugins/lib_burst_generated
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll
@@ -126,6 +129,7 @@ Library: lib_burst_generated
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.Burst.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.Timeline.dll
+--root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.Postprocessing.Runtime.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.ML-Agents.CommunicatorObjects.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.ML-Agents.Extensions.Input.dll
@@ -283,6 +287,7 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_TIMELINE
 --compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=ROCKETBOX
+--compilation-defines=UNITY_POST_PROCESSING_STACK_V2
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
@@ -293,6 +298,8 @@ Library: lib_burst_generated
 --compilation-defines=MLA_UNITY_ANALYTICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS2D_MODULE
+--compilation-defines=ENABLE_VR_MODULE
+--compilation-defines=ENABLE_XR_MODULE
 --debug=Full
 --output=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Plugins/lib_burst_generated
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll
@@ -306,6 +313,7 @@ Library: lib_burst_generated
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.Burst.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.Timeline.dll
+--root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.Postprocessing.Runtime.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.ML-Agents.CommunicatorObjects.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.ML-Agents.Extensions.Input.dll
@@ -462,6 +470,7 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_TIMELINE
 --compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=ROCKETBOX
+--compilation-defines=UNITY_POST_PROCESSING_STACK_V2
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
@@ -472,6 +481,8 @@ Library: lib_burst_generated
 --compilation-defines=MLA_UNITY_ANALYTICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS2D_MODULE
+--compilation-defines=ENABLE_VR_MODULE
+--compilation-defines=ENABLE_XR_MODULE
 --debug=Full
 --output=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Plugins/lib_burst_generated
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll
@@ -485,6 +496,7 @@ Library: lib_burst_generated
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.Burst.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.Timeline.dll
+--root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.Postprocessing.Runtime.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.ML-Agents.CommunicatorObjects.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.ML-Agents.Extensions.Input.dll
@@ -631,6 +643,7 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_TIMELINE
 --compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=ROCKETBOX
+--compilation-defines=UNITY_POST_PROCESSING_STACK_V2
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
@@ -641,6 +654,8 @@ Library: lib_burst_generated
 --compilation-defines=MLA_UNITY_ANALYTICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS2D_MODULE
+--compilation-defines=ENABLE_VR_MODULE
+--compilation-defines=ENABLE_XR_MODULE
 --debug=Full
 --output=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Plugins/lib_burst_generated
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll
@@ -654,6 +669,7 @@ Library: lib_burst_generated
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.Burst.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.Timeline.dll
+--root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.Postprocessing.Runtime.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.ML-Agents.CommunicatorObjects.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll
 --root-assembly=/home/daniel/Code/cbsim/WaveEnv/Temp/StagingArea/Data/Managed/Unity.ML-Agents.Extensions.Input.dll
