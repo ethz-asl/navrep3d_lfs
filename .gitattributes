@@ -16,3 +16,5 @@ mlagents_executables/gallery_Data/sharedassets0.assets.resS filter=lfs diff=lfs 
 mlagents_executables/gallery_Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
 mlagents_executables/kozehd_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
 mlagents_executables/kozehd_Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
+mlagents_executables/kozehd_labelling_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+mlagents_executables/kozehd_labelling_Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
