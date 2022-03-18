@@ -2,6 +2,8 @@ executables/build_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -
 executables/build_Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
 executables/alternate_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
 executables/alternate_Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
+executables/alternate_segmentation_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+executables/alternate_segmentation_Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
 executables/city_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
 executables/city_Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
 executables/office_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
